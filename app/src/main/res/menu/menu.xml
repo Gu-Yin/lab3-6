@@ -63,8 +63,8 @@
         app:showAsAction="never"/>
     <item
         android:id="@+id/settings"
-        android:title="@string/settings"
-        app:showAsAction="never"/>
+        android:title="SETTINGS"
+        app:showAsAction="never" />
     <item
         android:id="@+id/about"
         android:title="@string/about"
